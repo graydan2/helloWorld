@@ -4,6 +4,8 @@ import "fmt"
 
 func main () {
 	found := strStr("mississippi", "pi")
+    fmt.Printf("Pumpernickle")
+    fmt.Printf("testing stuff")
 	fmt.Printf("Result: %v", found)
 }
 
